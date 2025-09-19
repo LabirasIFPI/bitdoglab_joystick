@@ -22,16 +22,20 @@ O projeto também inclui feedback visual através de LEDs e a impressão da dire
 
 ### 🚀 Como Usar
 * Clone o Repositório
-  * ``git clone https://github.com/LabirasIFPI/bitdoglab_joystick.git ``
+
+```bash
+git clone https://github.com/LabirasIFPI/bitdoglab_joystick.git
+```
 
 ### 👨‍💻 Compile o Projeto
 
-Navegue até o diretório do projeto e compile-o.
+* Navegue até o diretório do projeto e compile-o.
 
-``mkdir build
-cd build
-cmake ..
-make``
+ ```bash
+    mkdir build
+    cd build
+    cmake ..
+```
 
 ### ✨ Flashe o Pico
 
@@ -49,4 +53,4 @@ Conceito: Demonstra o uso de ADC e GPIOs para interagir com periféricos externo
 Explore a simplicidade de conectar periféricos ao seu Raspberry Pi Pico e comece a construir projetos interativos! 🌐
 
 ### 📄 Licença
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/LabirasIFPI/bitdoglab_joystick/blob/40701d78e54307e098c2d2f756baf9e8ca23d9f2/LICENSE.txt) para mais detalhes.
